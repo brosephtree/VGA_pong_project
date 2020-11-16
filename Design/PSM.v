@@ -6,7 +6,7 @@
 // 
 // Module Name: PSM
 // 
-// Description: The Pause Finite State Machine initiates a pause countdown for 3 
+// Description: The Pause State Machine initiates a pause countdown for 3 
 // seconds when activated.
 // 
 // 
